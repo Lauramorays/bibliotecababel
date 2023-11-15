@@ -1,0 +1,73 @@
+{   "audio":"audios/sonido.mp3",
+
+"modelo":"modelos/Babel.glb",
+"fondo":"rgb(0,0,0)",
+"data" :
+    [
+       {
+            "tiempo":"00:00",
+            "duracion":2000,
+            "camara":"cam1",
+            "target":"tar1",
+            "nombre":"vista uno"
+       },
+       {
+           "tiempo":"00:04",
+           "duracion":2000,
+           "camara":"cam2",
+           "target":"tar2",
+           "nombre":"vista dos"
+      },
+      {
+           "tiempo":"00:12",
+           "duracion":2000,
+           "camara":"cam3",
+           "target":"tar3",
+           "nombre":"vista tres"
+      },
+      {
+           "tiempo":"00:16",
+           "duracion":2000,
+           "camara":"cam4",
+           "target":"tar4",
+           "nombre":"vista cuatro"
+      },
+      {
+           "tiempo":"00:22",
+           "duracion":2000,
+           "camara":"cam5",
+           "target":"tar5",
+           "nombre":"vista cinco"
+      },
+      {
+           "tiempo":"00:28",
+           "duracion":2000,
+           "camara":"cam6",
+           "target":"tar6",
+           "nombre":"vista seis"
+      },
+      {
+           "tiempo":"00:32",
+           "duracion":2000,
+           "camara":"cam7",
+           "target":"tar7",
+           "nombre":"vista siete"
+      },
+      {
+           "tiempo":"00:38",
+           "duracion":2000,
+           "camara":"cam9",
+           "target":"tar9",
+           "nombre":"vista nueve"
+      },
+      {
+           "tiempo":"00:44",
+           "duracion":2000,
+           "camara":"cam10",
+           "target":"tar10",
+           "nombre":"vista diez"
+      }
+      
+
+  ]
+}
