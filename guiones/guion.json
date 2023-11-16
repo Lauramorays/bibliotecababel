@@ -1,73 +1,170 @@
-{   "audio":"audios/sonido.mp3",
+{   "audio":"audios/audioguion2.mp3",
+    "modelo":"modelos/BabelFinal.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":2000,
+                "camara":"cam1",
+                "target":"tar1",
+                "nombre":"vista principal (1)"
+           },
+           {
+               "tiempo":"00:03",
+               "duracion":2000,
+               "camara":"cam2",
+               "target":"tar2",
+               "nombre":"vista 2"
+          },
+          {
+               "tiempo":"00:10",
+               "duracion":2000,
+               "camara":"cam3",
+               "target":"tar3",
+               "nombre":"vista poso de ventilacion (3)" 
+          },
+          {
+               "tiempo":"00:15",
+               "duracion":2000,
+               "camara":"cam4",
+               "target":"tar4",
+               "nombre":"vista cuatro"
+          
+          },
+          {
+               "tiempo":"00:20",
+               "duracion":2000,
+               "camara":"cam9",
+               "target":"tar9",
+               "nombre":"vista anaquel2"
+          },
+          {
+               "tiempo":"00:25",
+               "duracion":2000,
+               "camara":"cam2",
+               "target":"tar2",
+               "nombre":"vista anaqueles"
+          },
+          {
+               "tiempo":"00:37",
+               "duracion":2000,
+               "camara":"cam5",
+               "target":"tar5",
+               "nombre":"vista cinco"
+          },
+          {
+               "tiempo":"00:42",
+               "duracion":2000,
+               "camara":"cam6",
+               "target":"tar6",
+               "nombre":"vista seis"
+          },
+          {
+               "tiempo":"00:51",
+               "duracion":2000,
+               "camara":"cam7",
+               "target":"tar7",
+               "nombre":"vista siete"
+          },
+             {
+               "tiempo":"00:59",
+               "duracion":2000,
+               "camara":"cam8",
+               "target":"tar8",
+               "nombre":"vista ocho"
+          },
+          {
+               "tiempo":"01:13",
+               "duracion":2000,
+               "camara":"cam11",
+               "target":"tar11",
+               "nombre":"vista espejo"
+          },
+          {
+               "tiempo":"01:37",
+               "duracion":2000,
+               "camara":"cam9",
+               "target":"tar9",
+               "nombre":"vista nueve"
+          },
+          {
+               "tiempo":"01:45",
+               "duracion":2000,
+               "camara":"cam10",
+               "target":"tar10",
+               "nombre":"vista diez"
+          },
+          {
+               "tiempo":"01:52",
+               "duracion":2000,
+               "camara":"cam12",
+               "target":"tar12",
+               "nombre":"vista doce"
+          },
+          {
+               "tiempo":"01:51",
+               "duracion":2000,
+               "camara":"cam12",
+               "target":"tar12",
+               "nombre":"vista doce"
+          },          
+          {
+               "tiempo":"02:05",
+               "duracion":2000,
+               "camara":"cam4",
+               "target":"tar4",
+               "nombre":"vista baranda"
+          },
+          {
+               "tiempo":"02:22",
+               "duracion":2000,
+               "camara":"cam1",
+               "target":"tar1",
+               "nombre":"vista infinito"
+          },
+          {
+               "tiempo":"02:30",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar13",
+               "nombre":"vista final"
+          },
+          {
+               "tiempo":"02:34",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar14",
+               "nombre":"vista final2"
+          },
+          {
+               "tiempo":"02:38",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar16",
+               "nombre":"vista final3"
+          },
+          {
+               "tiempo":"02:42",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar15",
+               "nombre":"vista final4"
+          },
+          {
+               "tiempo":"02:46",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar17",
+               "nombre":"vista final4"
+          },
+          {
+               "tiempo":"02:50",
+               "duracion":2000,
+               "camara":"cam13",
+               "target":"tar18",
+               "nombre":"vista final5"
+          }  
 
-"modelo":"modelos/Babel.glb",
-"fondo":"rgb(0,0,0)",
-"data" :
-    [
-       {
-            "tiempo":"00:00",
-            "duracion":2000,
-            "camara":"cam1",
-            "target":"tar1",
-            "nombre":"vista uno"
-       },
-       {
-           "tiempo":"00:04",
-           "duracion":2000,
-           "camara":"cam2",
-           "target":"tar2",
-           "nombre":"vista dos"
-      },
-      {
-           "tiempo":"00:12",
-           "duracion":2000,
-           "camara":"cam3",
-           "target":"tar3",
-           "nombre":"vista tres"
-      },
-      {
-           "tiempo":"00:16",
-           "duracion":2000,
-           "camara":"cam4",
-           "target":"tar4",
-           "nombre":"vista cuatro"
-      },
-      {
-           "tiempo":"00:22",
-           "duracion":2000,
-           "camara":"cam5",
-           "target":"tar5",
-           "nombre":"vista cinco"
-      },
-      {
-           "tiempo":"00:28",
-           "duracion":2000,
-           "camara":"cam6",
-           "target":"tar6",
-           "nombre":"vista seis"
-      },
-      {
-           "tiempo":"00:32",
-           "duracion":2000,
-           "camara":"cam7",
-           "target":"tar7",
-           "nombre":"vista siete"
-      },
-      {
-           "tiempo":"00:38",
-           "duracion":2000,
-           "camara":"cam9",
-           "target":"tar9",
-           "nombre":"vista nueve"
-      },
-      {
-           "tiempo":"00:44",
-           "duracion":2000,
-           "camara":"cam10",
-           "target":"tar10",
-           "nombre":"vista diez"
-      }
-      
-
-  ]
+      ]
 }
